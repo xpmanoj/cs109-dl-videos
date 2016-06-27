@@ -4,7 +4,7 @@ echo "Input the video number that you want to download: "
 num=0
 read num
 echo "Resume? (y/n)"
-rseume="n"
+resume="n"
 read resume
 idx=1
 while read line; do
